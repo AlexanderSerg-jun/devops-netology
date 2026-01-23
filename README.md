@@ -1,5 +1,6 @@
 # devops-netology
 ### My first repository 
+
 ### В файле .gitignore, которая находится в папке terraform , описаны файлы которые будут игнорировать при загрузке  в репозиторий
 # Локальные каталоги .terraform
 .terraform/
@@ -29,3 +30,4 @@ override.tf.json
 # Игнорирование CLI конфигурационных файлов
 .terraformrc
 terraform.rc
+## Все скрины действий находятся в папке [Действия](./img/)
